@@ -1,15 +1,16 @@
-# esacc
+# Esacc Task
 
-A new Flutter project.
+A Flutter application with social login integration (Google Sign-In and Facebook Login).
+
+## Features
+- Google Sign-In integration
+- Facebook Login integration
+- Firebase Authentication
+- WebView functionality
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is a Flutter application for task management.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
